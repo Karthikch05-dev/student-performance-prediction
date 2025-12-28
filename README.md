@@ -42,3 +42,8 @@ The dataset is small and clean, making it suitable for understanding the complet
 
 ## 📈 Result
 The trained Linear Regression model achieved a very low Mean Absolute Error on the test data, showing accurate predictions for the given dataset.
+
+## 👤 Author
+**Karthik Chinthakindi**  
+- GitHub: https://github.com/Karthikch05-dev  
+- LinkedIn: https://www.linkedin.com/in/karthik-chinthakindi-aa93a7287/
