@@ -1,33 +1,54 @@
-# Student Performance Prediction
+# 🎓 Student Performance Prediction using Machine Learning
 
-This project aims to predict student performance using basic machine learning techniques based on academic factors such as study time and previous scores.
+This project predicts student academic performance using basic machine learning techniques based on factors like study hours, attendance, and previous scores.
 
-## Problem Statement
-Student performance is influenced by multiple factors. This project uses machine learning to analyze these factors and predict the final performance of a student.
+---
 
-## Tools & Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter Notebook
+## 📌 Problem Statement
+Student performance depends on multiple academic factors.  
+The goal of this project is to build a machine learning model that can analyze these factors and predict the final score of a student.
 
-## Approach
-- Collected student performance dataset
-- Performed data preprocessing and cleaning
-- Split data into training and testing sets
-- Applied a basic machine learning model
-- Evaluated model performance
+---
 
-## Result
-The model is able to predict student performance with reasonable accuracy using basic academic inputs.
+## 📊 Dataset
+The dataset contains the following features:
 
-## Future Improvements
-- Use more features for better prediction
-- Try different machine learning algorithms
-- Improve model accuracy
+- **study_hours** – Number of hours studied per day  
+- **attendance** – Attendance percentage  
+- **previous_score** – Previous exam marks  
+- **final_score** – Final exam marks (target variable)
 
-## Author
-Karthik Chinthakindi  
-GitHub: https://github.com/Karthikch05-dev  
-LinkedIn: https://www.linkedin.com/in/karthik-chinthakindi-aa93a7287/
+The dataset is small and clean, making it suitable for understanding the complete ML workflow.
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## ⚙️ Machine Learning Workflow
+1. Data loading and inspection  
+2. Feature selection  
+3. Train–test split  
+4. Model training using **Linear Regression**  
+5. Model evaluation using **Mean Absolute Error (MAE)**  
+
+---
+
+## 📈 Result
+The trained Linear Regression model achieved a very low Mean Absolute Error on the test data, showing accurate predictions for the given dataset.
+
+
+
+---
+
+## ✅ STEP 3: Save, Commit & Sync
+
+1️⃣ **Ctrl + S**  
+2️⃣ Go to **Source Control (🔁)**  
+3️⃣ Commit message:
