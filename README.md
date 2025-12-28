@@ -42,13 +42,3 @@ The dataset is small and clean, making it suitable for understanding the complet
 
 ## 📈 Result
 The trained Linear Regression model achieved a very low Mean Absolute Error on the test data, showing accurate predictions for the given dataset.
-
-
-
----
-
-## ✅ STEP 3: Save, Commit & Sync
-
-1️⃣ **Ctrl + S**  
-2️⃣ Go to **Source Control (🔁)**  
-3️⃣ Commit message:
